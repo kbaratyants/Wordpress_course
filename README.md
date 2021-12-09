@@ -1,2 +1,3 @@
 # Wordpress_course
-The first project.without mobile adaptivity.
+The first project.
+Without mobile adaptivity.
